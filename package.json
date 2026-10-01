@@ -1,0 +1,9 @@
+{
+  "name": "wrap-me-in-plastic-gpt-codex-pv",
+  "private": true,
+  "license": "MIT",
+  "description": "GPT x Codex pixel PV adaptation of world-execute-me-dsh-pv, with generated key poses and a CHROMANCE soundtrack supplied by the user.",
+  "dependencies": {
+    "playwright": "1.63.0"
+  }
+}

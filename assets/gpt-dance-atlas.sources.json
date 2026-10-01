@@ -1,0 +1,63 @@
+{
+  "rows": 3,
+  "columns": 4,
+  "source_images": [
+    "gpt-character-fusion.png",
+    "gpt-keypose-step.png",
+    "gpt-keypose-dance.png",
+    "gpt-keypose-cross.png",
+    "gpt-keypose-turn.png",
+    "gpt-keypose-reach.png",
+    "gpt-keypose-settle.png"
+  ],
+  "slots": [
+    {
+      "file": "gpt-character-fusion.png",
+      "mirror": false
+    },
+    {
+      "file": "gpt-keypose-step.png",
+      "mirror": false
+    },
+    {
+      "file": "gpt-keypose-dance.png",
+      "mirror": false
+    },
+    {
+      "file": "gpt-keypose-dance.png",
+      "mirror": true
+    },
+    {
+      "file": "gpt-keypose-cross.png",
+      "mirror": false
+    },
+    {
+      "file": "gpt-keypose-step.png",
+      "mirror": true
+    },
+    {
+      "file": "gpt-keypose-turn.png",
+      "mirror": false
+    },
+    {
+      "file": "gpt-keypose-turn.png",
+      "mirror": true
+    },
+    {
+      "file": "gpt-keypose-dance.png",
+      "mirror": false
+    },
+    {
+      "file": "gpt-keypose-reach.png",
+      "mirror": false
+    },
+    {
+      "file": "gpt-keypose-settle.png",
+      "mirror": false
+    },
+    {
+      "file": "gpt-character-fusion.png",
+      "mirror": false
+    }
+  ]
+}
